@@ -8,7 +8,6 @@
 
     <style>
         body {
-    font-family: 'Arial', sans-serif;
     background-color: #fff;
 }
 
@@ -158,18 +157,18 @@ footer a:link {
       </div>
       <script>
         var mesos = [
-    'January',
-    'February',
-    'March',
-    'April',
-    'May',
-    'June',
-    'July',
-    'August',
-    'September',
-    'October',
-    'November',
-    'December'
+    'january',
+    'february',
+    'march',
+    'april',
+    'may',
+    'june',
+    'july',
+    'august',
+    'september',
+    'october',
+    'november',
+    'december'
 ];
 
 var dies = [
@@ -183,13 +182,13 @@ var dies = [
 ];
 
 var dies_abr = [
-    'Su',
-    'Mo',
-    'Tu',
-    'We',
-    'Th',
-    'Fr',
-    'Sa'
+    'S',
+    'M',
+    'T',
+    'W',
+    'T',
+    'F',
+    'S'
 ];
 
 Number.prototype.pad = function(num) {
